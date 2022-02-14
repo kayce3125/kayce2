@@ -41,7 +41,7 @@ def xoshnaw():
       time.sleep(0.3)
       pass
     else:
-      print("\x1b[1;92mID ACTIVATE (telegram) INBOX  @CHIGOZIEWORLDWIDE")
+      print("\x1b[1;91mID ACTIVATE (telegram) INBOX  @CHIGOZIEWORLDWIDE")
       os.system('xdg-open https://wa.me/+2348069472717')
       time.sleep(1)
       sys.exit()
