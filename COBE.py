@@ -1,11 +1,8 @@
-# code by Yayan Xd
+#!/usr/bin/python3
+#-*-coding:utf-8-*-
+# Update V1.6
 
-# my github ( https://github.com/Chigozieworldwide )
-
-#      (C) Copyright 407 Authentic Exploit
-#      Rebuild Copyright Can't make u real programmer:)
-#      Coded By Yayan XD.
-
+### Import Module
 import os
 try:
     import requests
